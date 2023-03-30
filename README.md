@@ -1,5 +1,7 @@
 # chatgpt-v2ray
 
+**高级订阅咨询请加wx：WinterCelery**
+
 每日更新可用于登录chatgpt的v2ray地址：
 
 > 使用方法，复制下面的地址，然后右键v2ray的图标，选择从粘贴板里复制服务器地址
