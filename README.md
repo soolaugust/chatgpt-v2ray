@@ -3,6 +3,7 @@
 每日更新可用于登录chatgpt的v2ray地址：
 
 > 使用方法，复制下面的地址，然后右键v2ray的图标，选择从粘贴板里复制服务器地址
+> chatgpt注册等问题可以查看：https://github.com/soolaugust/chatgpt-helper
 
 ```bash
 c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YTBSWGRsaFpXbTlVUW1OSGEwTTBAMTcyLjk5LjE4OC45OTo4ODgyIyVFOCU4RCVCNyVFNSU4NSVCMCVFMyU4MCU5MCVFNCVCQiU5OCVFOCVCNCVCOSVFNiU4RSVBOCVFOCU4RCU5MCVFRiVCQyU5QWh0dHBzJTNBJTJGJTJGdHQudmclMkZ2aXAlRTMlODAlOTExNA0K
