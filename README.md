@@ -9,10 +9,10 @@
 > chatgpt注册等问题可以查看：https://github.com/soolaugust/chatgpt-helper
 
 ```bash
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.60:2375#%E6%97%A5%E6%9C%AC%E3%80%90%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2Fvip%E3%80%91229
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbveOAkOS7mOi0ueaOqOiNkO+8mmh0dHBzOi8vdHQudmcvdmlw44CRODciLA0KICAiYWRkIjogImNmLmZvdmkudGsiLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZm94cG9sMy5mb3ZpLnRrIiwNCiAgInBhdGgiOiAiL2Vpc2FzcWEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 ```
 
-更新时间：2023-4-3
+更新时间：2023-4-12
 
 # 捐赠
 
