@@ -1,6 +1,6 @@
 # chatgpt-v2ray
 
-**高级订阅咨询请加wx：sms-active**
+**高级订阅咨询请加wx：goingkeep2**
 
 每日更新可用于登录chatgpt的v2ray地址：
 
